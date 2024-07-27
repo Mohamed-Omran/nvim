@@ -5,7 +5,7 @@ return
     defaults = {
       prompt_prefix = " ",
       selection_caret = " ",
-      layout_strategy = "vertical",
+      layout_strategy = "horizontal",
       layout_config = {
         vertical = {
           preview_cutoff = 0.2,

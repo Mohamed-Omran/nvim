@@ -23,7 +23,7 @@ local function prep_copy()
   vim.cmd('IBLToggle')
   vim.cmd('Gitsigns toggle_signs')
   vim.cmd('lua LazyVim.toggle.diagnostics()')
-  vim.cmd('Neotree toggle')
+  -- vim.cmd('Neotree toggle')
 
 end
 
